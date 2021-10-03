@@ -11,4 +11,7 @@ public class Third {
     public void cat (int Color) {
         System.out.println("Cat color");
     }
+    public void bird (String size){
+
+    }
 }
