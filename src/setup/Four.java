@@ -9,5 +9,8 @@ public class Four {
 
         System.out.println("5");
     }
+    public static void m(){
+
+    }
 
 }
